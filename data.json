@@ -1,0 +1,155 @@
+{
+    "name": "S Sameer",
+    "email": "ssameer16963@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Executive Software Developer"
+
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/file/d/18yrGELByDKjR8bnll9kuoCYDc6szeReW/view?usp=drivesdk",
+    "coloredPhotoURL": "https://drive.google.com/file/d/1961-5Zv83nSLiaEnJ4n6wHR-_cEE4FmM/view?usp=drivesdk",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/mhmzdev"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/mhmzdev"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/mhmzdev"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/mhmzdev"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/mhmzdev"
+        },
+        {
+            "platform": "medium",
+            "url": "https://mhamzadev.medium.com/"
+        }
+    ],
+    "aboutMeHeadline": "I'm s sameer, a Executive Software Developer, Flutter developer.",
+    "aboueMeDetails": "I\\'m a Fresh Graduate with Electronics and communication as Majors from SJC Institution of Technology, Chickballapur(Karnataka). I have been developing mobile and web apps for over 6 Months now. I have worked in teams for startup and helped them in launching their prototypes and got valuable learning experience. Currently working as Executive Software Developer at Native Minds Technology PVT LDT",
+    "technologies": [
+        "Flutter",
+        "HTML and CSS",
+        "RestAPIS",
+        "Dart",
+        "Python",
+        "SQL"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App and Web Development",
+            "description": "Android app development via Flutter\\n- Splash Screen\\n- Firebase Auth/Cloud\\n- REST APIs\\n- UI Designing and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "Front End Development",
+            "description": "Frond end part as \\n- HTML\\n- CSS\\n- Java Script\\n- more..!"
+        },
+        {
+            "icon": "assets/services/img_1.png",
+            "name": "Back End Development",
+            "description": "Back end part as\\n- Python"
+        },
+        {
+            "icon": "assets/services/img_2.png",
+            "name": "DataBase",
+            "description": "DataBase part as\\n- SQL"
+        }
+
+    ],
+    "hireMe": {
+        "whatsapp": "9703518036"
+    },
+    "projects": [
+        {
+            "title": "Awesome SnackBar",
+            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "A dart package including a wholesome experience of snackbar in your applications."
+        },
+        {
+            "title": "MedKit",
+            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels."
+        },
+        {
+            "title": "The Holy Qur'an",
+            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
+            "bannerUrl": "assets/projects/quranB.png",
+            "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md"
+        },
+        {
+            "title": "Here I Am",
+            "iconUrl": "assets/projects/hereiam.png",
+            "bannerUrl": "assets/projects/hereiamB.png",
+            "description": "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones."
+        },
+        {
+            "title": "COIVD 19 - Tracker",
+            "iconUrl": "assets/projects/covid.png",
+            "bannerUrl": "assets/projects/covidB.png",
+            "description": "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live."
+        },
+        {
+            "title": "Messenger Chat Head UI",
+            "iconUrl": "assets/projects/messenger.png",
+            "bannerUrl": "",
+            "description": "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head."
+        },
+        {
+            "title": "flutter.dev - Flutter Web",
+            "iconUrl": "assets/projects/flutter.png",
+            "bannerUrl": "",
+            "description": "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues."
+        },
+        {
+            "title": "Earbender",
+            "iconUrl": "assets/projects/earbender.png",
+            "bannerUrl": "",
+            "description": "A concept of Music App developed using Flutter. Having functionality of playing Audio."
+        },
+        {
+            "title": "File Transfer Protocol",
+            "iconUrl": "assets/projects/java.png",
+            "bannerUrl": "",
+            "description": "A simple GUI based Java application that sends file from Client to Server but not the other way around."
+        },
+        {
+            "title": "My Order",
+            "iconUrl": "assets/projects/android.png",
+            "bannerUrl": "",
+            "description": "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System."
+        },
+        {
+            "title": "Hidev",
+            "iconUrl": "assets/services/open.png",
+            "bannerUrl": "",
+            "description": "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Hindupur, AndhraPradesh"
+        },
+        {
+            "param": "phone",
+            "value": "9703518036"
+        },
+        {
+            "param": "email",
+            "value": "ssameer16963@gmail.com"
+        }
+    ]
+}
